@@ -2,9 +2,11 @@
 
 <div align="center">
   
-  **Create Stunning eFootball Player Cards in Minutes!**
+  **Create Stunning eFootball Player Cards Easily!**
   
-  [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/yourusername/efcardify)
+  ![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Mode](https://img.shields.io/badge/Mode-Light%20%26%20Dark-orange)
   [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com/)
   
   [Download](#-download) • [Features](#-features) • [How to Use](#-how-to-use)
