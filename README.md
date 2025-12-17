@@ -7,7 +7,7 @@
   ![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Mode](https://img.shields.io/badge/Mode-Light%20%26%20Dark-orange)
-  [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com/)
+
   
   [Download](#-download) • [Features](#-features) • [How to Use](#-how-to-use)
 </div>
@@ -33,9 +33,14 @@
 
 **Version 1.0** • Min Android 7.0 • ~5 MB
 
-**[📲 Download APK](https://github.com/shihabxcoder/efcardify/releases)**
+### Download
 
-**[💬 Telegram Channel](https://t.me/eFCardify)**
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/GitHub.svg"
+	  alt='Get it on GitHub'
+	  height="80">](https://github.com/shihabxcoder/efcardify/releases) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/Telegram.svg"
+	  alt='Get it on Telegram'
+	  height="80">](https://t.me/eFCardify)
+	  
 
 ## 🎮 How to Use
 
